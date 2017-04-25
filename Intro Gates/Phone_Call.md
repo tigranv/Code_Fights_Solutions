@@ -1,3 +1,4 @@
+```c#
 int phoneCall(int min1, int min2_10, int min11, int S) {
     int t = 0;
     int i =0;
@@ -19,3 +20,4 @@ int phoneCall(int min1, int min2_10, int min11, int S) {
     }
     return t;
 }
+```
